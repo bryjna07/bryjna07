@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="100" alt="" src="https://github.com/user-attachments/assets/42b97ab5-83f9-4409-9e8d-63ed67405ef4" />
+<img width="50" alt="" src="https://github.com/user-attachments/assets/42b97ab5-83f9-4409-9e8d-63ed67405ef4" />
 
 <!--
 **bryjna07/bryjna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
